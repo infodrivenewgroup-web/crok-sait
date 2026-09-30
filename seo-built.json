@@ -1,0 +1,41 @@
+{
+  "url": "http://127.0.0.1:8081/blog/s-kem-obschaetsya-muzh",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "С кем общается муж: как проверить круг контактов | Check-Love",
+      "hasCanvas": false,
+      "bodyTextLen": 7405,
+      "bodyTextHash": "66680fefb1a6ab1d1e19ab1013125cc979b87f9195ef4f57aad75e03ce6fcd16",
+      "bodyTextPrefix": "Check-Love Отзывы Примеры проверок Блог 5 онлайн Главная / Блог ",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/seo-built.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "С кем общается муж: как проверить круг контактов | Check-Love",
+      "hasCanvas": false,
+      "bodyTextLen": 7405,
+      "bodyTextHash": "66680fefb1a6ab1d1e19ab1013125cc979b87f9195ef4f57aad75e03ce6fcd16",
+      "bodyTextPrefix": "Check-Love Отзывы Примеры проверок Блог 5 онлайн Главная / Блог ",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/seo-built-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/seo-built.json",
+  "divergesFromBaseline": true,
+  "baselineReasons": [
+    "desktop: body text replaced (similar length, page start changed)",
+    "mobile: body text replaced (similar length, page start changed)"
+  ]
+}

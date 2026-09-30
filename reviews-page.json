@@ -1,0 +1,36 @@
+{
+  "url": "http://127.0.0.1:8080/reviews",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "Отзывы Check-Love: люди, которые уже посмотрели факты",
+      "hasCanvas": false,
+      "bodyTextLen": 1549,
+      "bodyTextHash": "806b326f91de69a4f60cdd4b4a33170fa49d7947985eabac736645c996465b2e",
+      "bodyTextPrefix": "Check-Love Отзывы Примеры проверок Блог 5 онлайн На главную ОТЗЫ",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/reviews-page.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "Отзывы Check-Love: люди, которые уже посмотрели факты",
+      "hasCanvas": false,
+      "bodyTextLen": 1549,
+      "bodyTextHash": "53b396527faf7ed44162fa64b333fbcd52d291b71f85aa1bd1c988611fea56a0",
+      "bodyTextPrefix": "Check-Love Отзывы Примеры проверок Блог 8 онлайн На главную ОТЗЫ",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/reviews-page-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/reviews-page.json"
+}

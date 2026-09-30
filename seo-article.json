@@ -1,0 +1,38 @@
+{
+  "url": "http://127.0.0.1:8080/blog/proverit-zhenu-na-vernost",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "Как проверить жену на верность, не устроив скандал | Check-Love",
+      "hasCanvas": false,
+      "bodyTextLen": 6988,
+      "bodyTextHash": "630d96d19523cf298cfa02906cd8dcddec54f6b37307f18e08fe3fc7a46c7548",
+      "bodyTextPrefix": "Check-Love Отзывы Примеры проверок Блог 9 онлайн Главная / Блог ",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [
+        "Hydration failed because the server rendered text didn't match the client. As a result this tree will be regenerated on the client. This can happen if a SSR-ed Client Component used:\n\n- A server/client branch `if (typeof window !== 'undefined')`.\n- Variable input such as `Date.now()` or `Math.random()` which changes each time it's called.\n- Date formatting in a user's locale which doesn't match the server.\n- External changing data without sending a snapshot of it along with the HTML.\n- Invalid HTML tag nesting.\n\nIt can also happen if the client has a browser extension installed which messes with the HTML before React loaded.\n\nhttps://react.dev/link/hydration-mismatch\n\n  ...\n    <CatchBoundary getResetKey={function getResetKey} errorComponent={function AppErrorComponent} ...>\n      <SafeFragment fallback={function fallback}>\n        <MatchInnerImpl match={{id:\"/blog/...\", ...}}>\n          <Lazy>\n            <BlogRoute>\n              <BlogArticle article={{slug:\"prov...\", ...}}>\n                <div className=\"app-root\">\n                  <BlogHeader>\n                    <SiteHeader blogCurrent={false} onLogo={function onLogo} onReviews={function onReviews} ...>\n                      <header className=\"header\">\n                        <div className=\"header-inner\">\n                          <button>\n                          <nav>\n                          <div className=\"header-spacer\">\n                            <OnlineCounter>\n                              <span className=\"online\">\n                                <i>\n                                <span className=\"online-count\">\n+                                 8\n-                                 4\n                                  ...\n                  ...\n"
+      ],
+      "screenshot": "/workspace/screenshots/seo-article.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "Как проверить жену на верность, не устроив скандал | Check-Love",
+      "hasCanvas": false,
+      "bodyTextLen": 6988,
+      "bodyTextHash": "4bd662e39ec93ddfd554d3b61b8c0f4188c59ce7a0ed076bc13a24edeea9358a",
+      "bodyTextPrefix": "Check-Love Отзывы Примеры проверок Блог 7 онлайн Главная / Блог ",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/seo-article-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/seo-article.json"
+}

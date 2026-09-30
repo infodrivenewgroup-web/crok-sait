@@ -1,0 +1,41 @@
+{
+  "url": "http://127.0.0.1:8080/blog/netakoy-stati",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 404,
+      "title": "Страница не найдена — Check-Love",
+      "hasCanvas": false,
+      "bodyTextLen": 167,
+      "bodyTextHash": "e4599838fd06dff4c9696565669894784f5798276a3e97451f96b1c19fc5d87e",
+      "bodyTextPrefix": "Check-Love Отзывы Примеры проверок Блог 3 онлайн 404 Страница не",
+      "horizontalOverflow": false,
+      "consoleErrors": [
+        "Failed to load resource: the server responded with a status of 404 ()",
+        "Failed to load resource: the server responded with a status of 404 ()"
+      ],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/not-found.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 404,
+      "title": "Страница не найдена — Check-Love",
+      "hasCanvas": false,
+      "bodyTextLen": 167,
+      "bodyTextHash": "45406804f4b9956a75d0c72b04df8668c1f3a8e07b13d04e80041226364df68f",
+      "bodyTextPrefix": "Check-Love Отзывы Примеры проверок Блог 9 онлайн 404 Страница не",
+      "horizontalOverflow": false,
+      "consoleErrors": [
+        "Failed to load resource: the server responded with a status of 404 ()"
+      ],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/not-found-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/not-found.json"
+}

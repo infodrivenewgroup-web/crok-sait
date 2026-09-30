@@ -1,0 +1,36 @@
+{
+  "url": "http://127.0.0.1:8080/",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "Анонимная проверка на верность. Анонимно, Без регистрации.",
+      "hasCanvas": false,
+      "bodyTextLen": 6125,
+      "bodyTextHash": "fe97310e3f9e500b6495f357d6859c0845b9977dfd6579e7f979675adc487a59",
+      "bodyTextPrefix": "Check-Love Отзывы Примеры проверок Блог 5 онлайн ОНЛАЙН · АНОНИМ",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/home-seo.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "Анонимная проверка на верность. Анонимно, Без регистрации.",
+      "hasCanvas": false,
+      "bodyTextLen": 6125,
+      "bodyTextHash": "fe97310e3f9e500b6495f357d6859c0845b9977dfd6579e7f979675adc487a59",
+      "bodyTextPrefix": "Check-Love Отзывы Примеры проверок Блог 5 онлайн ОНЛАЙН · АНОНИМ",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/home-seo-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/home-seo.json"
+}

@@ -1,0 +1,36 @@
+{
+  "url": "http://127.0.0.1:8080/",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "Check-Love — анонимная проверка по открытым данным",
+      "hasCanvas": false,
+      "bodyTextLen": 2851,
+      "bodyTextHash": "3c933b18924c00f7aefadc34a6f27f01a330abd50ad4220bc94907d547344043",
+      "bodyTextPrefix": "Check-Love ОтзывыПримеры проверокБлог 5 онлайн онлайн · анонимно",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/home-after.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "Check-Love — анонимная проверка по открытым данным",
+      "hasCanvas": false,
+      "bodyTextLen": 2856,
+      "bodyTextHash": "5edc0f7a86742d0c1b7ad828982f463cdf060bfc9f293af80426b45733f7f393",
+      "bodyTextPrefix": "Check-Love Отзывы Примеры проверок Блог 5 онлайн ОНЛАЙН · АНОНИМ",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/home-after-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/home-after.json"
+}

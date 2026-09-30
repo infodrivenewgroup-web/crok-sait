@@ -1,0 +1,39 @@
+{
+  "url": "http://127.0.0.1:8080/",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "Check-Love",
+      "hasCanvas": true,
+      "bodyTextLen": 6320,
+      "bodyTextHash": "f7b3d240e414580ed39cf12c1edb1af2dd42f57b6b587ba4790f8386c18c4727",
+      "bodyTextPrefix": "Check-Love Тарифы Отзывы оператор онлайн Начать проверку ОНЛАЙН ",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "Check-Love — правда за 2 минуты, анонимно",
+      "hasCanvas": true,
+      "bodyTextLen": 6311,
+      "bodyTextHash": "44163642a7357b65e320f3763386f53b73603d7d29d876e1f08fcbaa0c911133",
+      "bodyTextPrefix": "Check-Love Тарифы Отзывы оператор онлайн Начать ОНЛАЙН · АНОНИМН",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview-mobile.png"
+    }
+  },
+  "brandWarnings": [
+    "BRAND WARNING: this looks like a game/canvas app but src/lib/og/site.json is missing \"type\": \"x:game\". X uses og:type=x:game to present the unfurl as a game card — set it in /workspace/src/lib/og/site.json per /workspace/.grok/skills/og/SKILL.md. Do not invent x:type or overload twitter:card as the game signal.",
+    "BRAND WARNING: this looks like a game/canvas app but /workspace/public/x-banner.jpg is missing. Games need a 50:11 X feed card (1200×264 JPEG) at public/x-banner.jpg — open /workspace/.grok/skills/og/SKILL.md and finish the brand-asset pass."
+  ],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/app-builder-preview.json"
+}

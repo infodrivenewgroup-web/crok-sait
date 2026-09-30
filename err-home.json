@@ -1,0 +1,36 @@
+{
+  "url": "http://127.0.0.1:8080/",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "Check-Love — анонимная проверка по открытым данным",
+      "hasCanvas": false,
+      "bodyTextLen": 4440,
+      "bodyTextHash": "f890ec6ca101df8d64c0177f3e05aa48e0d45b8ba5861fbf5c2a0071674696ad",
+      "bodyTextPrefix": "0 L × C · 1 + 0 L × C · 1 + 0 L × C · 1 + 0 L × C · 1 + 0 L × C ",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/err-home.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "Check-Love — анонимная проверка по открытым данным",
+      "hasCanvas": false,
+      "bodyTextLen": 2856,
+      "bodyTextHash": "be7d59277da17c5a07f699bea255ef9ec9b7bf475980c7cbc504a90669bc69f7",
+      "bodyTextPrefix": "Check-Love Отзывы Примеры проверок Блог 4 онлайн ОНЛАЙН · АНОНИМ",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/err-home-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/err-home.json"
+}

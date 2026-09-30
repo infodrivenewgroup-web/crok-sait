@@ -1,0 +1,36 @@
+{
+  "url": "http://127.0.0.1:8080/blog/proverit-zhenu-na-vernost",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "Как проверить жену на верность, не устроив скандал",
+      "hasCanvas": false,
+      "bodyTextLen": 6986,
+      "bodyTextHash": "da9fcff9161be97848e6163aa238e32b4bf6359a7d4199ecdc2ab5e0f9c66fd4",
+      "bodyTextPrefix": "Check-Love Отзывы Примеры проверок Блог 3 онлайн Главная / Блог ",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/article-page.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "Как проверить жену на верность, не устроив скандал",
+      "hasCanvas": false,
+      "bodyTextLen": 6986,
+      "bodyTextHash": "66b421da70edd0a68924b54a5c3345ab470c201bfc19923b704614cae48acdce",
+      "bodyTextPrefix": "Check-Love Отзывы Примеры проверок Блог 4 онлайн Главная / Блог ",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/article-page-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/article-page.json"
+}

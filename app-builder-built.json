@@ -1,0 +1,43 @@
+{
+  "url": "http://127.0.0.1:8081/",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "Check-Love",
+      "hasCanvas": false,
+      "bodyTextLen": 7904,
+      "bodyTextHash": "ceb0d038fc2272c9d9ea87f13d30f68677304d306281a9f0ef9d22d1f0cf6095",
+      "bodyTextPrefix": "0 L × C · 1 + 0 L × C · 1 + 0 L × C · 1 + 0 L × C · 1 + 0 L × C ",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-built.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "Check-Love",
+      "hasCanvas": false,
+      "bodyTextLen": 6311,
+      "bodyTextHash": "44163642a7357b65e320f3763386f53b73603d7d29d876e1f08fcbaa0c911133",
+      "bodyTextPrefix": "Check-Love Тарифы Отзывы оператор онлайн Начать ОНЛАЙН · АНОНИМН",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-built-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/app-builder-built.json",
+  "divergesFromBaseline": true,
+  "baselineReasons": [
+    "desktop: canvas disappeared",
+    "desktop: body text changed (6320 -> 7904 chars, hash mismatch)",
+    "mobile: title changed (\"Check-Love — правда за 2 минуты, анонимно\" -> \"Check-Love\")",
+    "mobile: canvas disappeared"
+  ]
+}

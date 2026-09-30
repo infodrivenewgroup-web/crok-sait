@@ -1,0 +1,36 @@
+{
+  "url": "http://127.0.0.1:8080/blog",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "Блог Check-Love: проверка на верность по открытым данным",
+      "hasCanvas": false,
+      "bodyTextLen": 7109,
+      "bodyTextHash": "a0e422baf9892a325cf4b0ad31692938519f61dd5b8c3f6879844ca6e50bbeba",
+      "bodyTextPrefix": "Check-Love Отзывы Примеры проверок Блог 3 онлайн Главная / Блог ",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/err-blog.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "Блог Check-Love: проверка на верность по открытым данным",
+      "hasCanvas": false,
+      "bodyTextLen": 7109,
+      "bodyTextHash": "caf9666f58cc4ba7fa902a3e0b68d4ec4fc4cb328b0c85446de011620f729d50",
+      "bodyTextPrefix": "Check-Love Отзывы Примеры проверок Блог 6 онлайн Главная / Блог ",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/err-blog-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/err-blog.json"
+}

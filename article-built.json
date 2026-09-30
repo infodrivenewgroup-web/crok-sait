@@ -1,0 +1,42 @@
+{
+  "url": "http://127.0.0.1:8081/blog/s-kem-obschaetsya-muzh",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "С кем общается муж: как проверить круг контактов",
+      "hasCanvas": false,
+      "bodyTextLen": 7403,
+      "bodyTextHash": "f39bdbc66b15c1c31de79d34ea06310fa3406e38cf01acf014904e5b00d5adbd",
+      "bodyTextPrefix": "Check-Love Отзывы Примеры проверок Блог 3 онлайн Главная / Блог ",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/article-built.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "С кем общается муж: как проверить круг контактов",
+      "hasCanvas": false,
+      "bodyTextLen": 7403,
+      "bodyTextHash": "41e9f7c95ffee1083908d39f9a75dc0297e0ee4ea0537de3c880e36ea1e77ce5",
+      "bodyTextPrefix": "Check-Love Отзывы Примеры проверок Блог 8 онлайн Главная / Блог ",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/article-built-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/article-built.json",
+  "divergesFromBaseline": true,
+  "baselineReasons": [
+    "desktop: title changed (\"Как проверить жену на верность, не устроив скандал\" -> \"С кем общается муж: как проверить круг контактов\")",
+    "mobile: title changed (\"Как проверить жену на верность, не устроив скандал\" -> \"С кем общается муж: как проверить круг контактов\")",
+    "mobile: body text replaced (similar length, page start changed)"
+  ]
+}

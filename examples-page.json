@@ -1,0 +1,36 @@
+{
+  "url": "http://127.0.0.1:8080/examples",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "Примеры проверок: так выглядит готовый отчёт",
+      "hasCanvas": false,
+      "bodyTextLen": 2076,
+      "bodyTextHash": "5dbce58a7d85aa4a0148f1567a57a47705be11dcdc2abc7c8910c93c0ae5d7d2",
+      "bodyTextPrefix": "Check-Love Отзывы Примеры проверок Блог 3 онлайн На главную ПРИМ",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/examples-page.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "Примеры проверок: так выглядит готовый отчёт",
+      "hasCanvas": false,
+      "bodyTextLen": 2076,
+      "bodyTextHash": "3bdcc373b595e0246f2bfed2cddc9ab3a91d9fdc3a7777a2af3e67f3bb411633",
+      "bodyTextPrefix": "Check-Love Отзывы Примеры проверок Блог 8 онлайн На главную ПРИМ",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/examples-page-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/examples-page.json"
+}
